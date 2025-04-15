@@ -45,7 +45,7 @@ st.write("Dữ liệu sau khi tính toán đặc trưng:", compliance_data)
 # Định nghĩa ngưỡng tuân thủ
 st.subheader("Ngưỡng tuân thủ")
 st.write("""
-- **Tỷ lệ an toàn vốn tối thiểu (CAR)**: Theo quy định (ví dụ: Ngân hàng Nhà nước Việt Nam), thường là 9%. Quỹ có CAR < 9% vi phạm an toàn vốn.
+- **Tỷ lệ an toàn vốn tối thiểu (CAR)**: Theo quy định (ví dụ: Ngân hàng Nhà nước Việt Nam), thường là 8%. Quỹ có CAR < 8% vi phạm an toàn vốn.
 - **Tỷ lệ nợ xấu tối đa**: Thường là 3%. Quỹ có tỷ lệ nợ xấu > 3% vi phạm giới hạn nợ xấu.
 """)
 
